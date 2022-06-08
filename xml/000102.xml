@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8" ?><dbgapss xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="dbgapssws.1.0.xsd"><Study uid="5358" whole_study_id="5358" phs="000102" v="1" p="1" createDate="2008-09-23T13:49:16-05:00" modDate="2019-07-19T13:28:37-05:00" maxParentChildStudyModDate="2019-07-19T13:28:37-05:00" handle="ISGS" num_participants="485"><StudyInfo accession="phs000102.v1.p1" parentAccession="phs000102.v1.p1"><BioProject id="PRJNA75377" entrez_id="75377" type="bp_admin_access"/><BioProject id="PRJNA75379" entrez_id="75379" type="bp_data_submission"/><StudyNameReportPage>http://www.ninds.nih.gov/index.htm</StudyNameReportPage><StudyNameEntrez>Ischemic Stroke Genetics Study (ISGS) </StudyNameEntrez><StudyTypes2 calculated="Yes"><StudyType21 name="phenotype_data" chosen="Yes"/><StudyType21 name="analysis" chosen="No"/><StudyType21 name="individual_sequencing" chosen="No"/><StudyType21 name="supporting_documents" chosen="No"/><StudyType21 name="images" chosen="No"/><StudyType21 name="molecular" chosen="No"/><StudyType21 name="subject_samples" chosen="Yes"/><StudyType21 name="links_to_ncbi_dbs" chosen="No"/><StudyType21 name="other_general" chosen="No"/></StudyTypes2><StudyTypes><StudyType>phenotype_data</StudyType></StudyTypes><Description>
+&lt;p&gt;The third leading cause of death in the United States, stroke is an acute neurological event leading to death of neural tissues.
+     Although the majority of strokes are ischemic strokes, meaning there is oxygen deprivation to the brain, almost 20% of strokes are
+     hemorrhagic, resulting from bleeding into the brain. Stroke is a complex disorder and likely multigenic in nature, resulting from
+     a combination of genetic and environmental factors. These well characterized risk factors that contribute to the incidence of stroke
+     include hypertension, cardiac disease, sickle cell disease, hyperhomocysteinemia, family history of stroke and smoking.
+    &lt;/p&gt;
+
+    &lt;p&gt;ISGS aim is to perform a prospective genetic association study of ischemic stroke focusing on the hemostatic system. ISGS
+    is a 5-center case-control study of first-ever ischemic stroke cases and concurrent controls individually matched for age,
+    sex and recruitment site.
+    &lt;/p&gt;
+
+    &lt;p&gt;This data includes that from subjects both banked in the &lt;a href="http://ccr.coriell.org/Sections/Collections/NINDS/?SsId=10"&gt;
+    NINDS repository&lt;/a&gt; with biologicals publicly available, and those whose samples are not banked/not available.
+    &lt;/p&gt;
+
+ &lt;!-- &lt;p&gt;&lt;b&gt;Important links to apply for individual-level data&lt;/b&gt;
+   &lt;ol&gt;
+       &lt;li&gt;&lt;a href="http://dbgap.ncbi.nlm.nih.gov/aa/wga.cgi?view_pdf&amp;stacc=phs000102.v1.p1" target="_blank"&gt;Data Use Certification Requirements (DUC)&lt;/a&gt;&lt;/li&gt;
+       &lt;li&gt;&lt;a href="http://view.ncbi.nlm.nih.gov/dbgap-controlled" target="_blank"&gt;Apply here for controlled access to individual level data&lt;/a&gt;&lt;/li&gt;
+       &lt;li&gt;&lt;a href="GetPdf.cgi?id=phd000582" target="_blank"&gt;Participant Protection Policy FAQ&lt;/a&gt;&lt;/li&gt;
+   &lt;/ol&gt;
+   &lt;/p&gt; --&gt;
+
+   &lt;p&gt;This study utilized the &lt;a href="./study.cgi?id=phs000005"&gt;NINDS Repository Cerebrovascular/Stroke Study&lt;/a&gt;,
+  and &lt;a href="./study.cgi?id=phs000004"&gt;neurologically normal controls&lt;/a&gt; from the sample population which are banked in the National
+  Institute of Neurological Disorders and Stroke (NINDS Repository) collection for a first stage whole genome analysis.&lt;/p&gt;
+ </Description><StudyHistory>
+&lt;p&gt;The ISGS protocol has been published in the peer-reviewed open access literature (&lt;i&gt;BMC Neurology&lt;/i&gt; 2003), making the
+     primary aims a matter of public record and defining key phenotypic variables to foster collaborations with other investigators.
+     Our first study participant was enrolled on December 4, 2002.  We achieved our recruitment goal of having 450 cases and 450 controls
+     individually matched for age, sex and site, almost 2 years ahead of schedule.  After meeting this goal, we received approval
+     from our NINDS Project Officer to continue recruitment and re-budgeted accordingly.  Over 1,300 participants were enrolled in the study.
+    &lt;/p&gt;
+
+    &lt;p&gt;The first genome-wide association study of ischemic stroke to be published (&lt;i&gt;Lancet Neurol&lt;/i&gt; 2007; 6(5): 414-20) used
+    ISGS cases and this is the data made available here.
+    &lt;/p&gt;
+
+    &lt;p&gt;Funded by NINDS under grant # NINDS R01NS42733 and under contract N01-NS-2-2349, the "Human Genetics Resource Center: DNA and
+    Cell Line Repository".
+    &lt;/p&gt;
+ </StudyHistory><Publications><Publication><Pubmed pmid="17434096"/></Publication><Publication><Pubmed pmid="12848902"/></Publication><Publication><Pubmed pmid="17845914"/></Publication><Publication><Pubmed pmid="17689390"/></Publication><Publication><Pubmed pmid="17060565"/></Publication><Publication><Pubmed pmid="16130105"/></Publication><Publication><Pubmed pmid="17332449"/></Publication><Publication><Pubmed pmid="17534386"/></Publication><Publication><Pubmed pmid="17434096"/></Publication><Publication><Pubmed pmid="12848902"/></Publication><Publication><Pubmed pmid="17845914"/></Publication><Publication><Pubmed pmid="17689390"/></Publication><Publication><Pubmed pmid="17060565"/></Publication><Publication><Pubmed pmid="16130105"/></Publication><Publication><Pubmed pmid="17332449"/></Publication><Publication><Pubmed pmid="17534386"/></Publication><Publication><Unparsed>Matar?M, Brown WM, Scholz S, Sim??hez J, Fung HC, Hernandez D, Gibbs JR, De Vrieze FW, Crews C, Britton A, Langefeld CD, Brott TG, Brown RD Jr, Worrall BB, Frankel M, Silliman S, Case LD, Singleton A, Hardy JA, Rich SS, Meschia JF. 
+A genome-wide genotyping study in patients with ischaemic stroke: initial analysis and data release. 
+Lancet Neurol. 2007 May; 6(5):414-20. 
+
+
+Meschia JF, Brott TG, Brown RD Jr, Crook RJ, Frankel M, Hardy J, Merino JG, Rich SS, Silliman S, Worrall BB, Ischemic Stroke Genetics Study. 
+The Ischemic Stroke Genetics Study (ISGS) Protocol. 
+BMC Neurol. 2003 Jul 8; 3:4. 
+
+
+Leslie-Mazwi TM, Brott TG, Brown RD Jr, Worrall BB, Silliman SL, Case LD, Frankel MR, Rich SS, Meschia JF. 
+Sex differences in stroke evaluations in the Ischemic Stroke Genetics Study. 
+J Stroke Cerebrovasc Dis. 2007 Sep-Oct; 16(5):187-93. 
+
+
+Barrett KM, Brott TG, Brown RD Jr, Frankel MR, Worrall BB, Silliman SL, Case LD, Rich SS, Meschia JF, Ischemic Stroke Genetics Study Group. 
+Sex differences in stroke severity, symptoms, and deficits after first-ever ischemic stroke. 
+J Stroke Cerebrovasc Dis. 2007 Jan-Feb; 16(1):34-9. 
+
+
+Meschia JF, Case LD, Worrall BB, Brown RD Jr, Brott TG, Frankel M, Silliman S, Rich SS, Ischemic Stroke Genetics Study Group. 
+Family history of stroke and severity of neurologic deficit after stroke. 
+Neurology. 2006 Oct 24; 67(8):1396-402. 
+
+
+Meschia JF, Brott TG, Brown RD Jr, Crook R, Worrall BB, Kissela B, Brown WM, Rich SS, Case LD, Evans EW, Hague S, Singleton A, Hardy J, SWISS Study Group, ISGS Study Group, MSGD Study Group. 
+Phosphodiesterase 4D and 5-lipoxygenase activating protein in ischemic stroke. 
+Ann Neurol. 2005 Sep; 58(3):351-61. 
+
+
+Worrall BB, Brott TG, Brown RD Jr, Brown WM, Rich SS, Arepalli S, Wavrant-De Vri? F, Duckworth J, Singleton AB, Hardy J, Meschia JF, SWISS, ISGS, and MSGD Investigators. 
+IL1RN VNTR polymorphism in ischemic stroke: analysis in 3 populations. 
+Stroke. 2007 Apr; 38(4):1189-96. 
+
+
+Matarin M, Brown WM, Hardy JA, Rich SS, Singleton AB, Brown RD Jr, Brott TG, Worrall BB, Meschia JF, SWISS Study Group, ISGS Study Group, MSGD Study Group. 
+Association of integrin alpha2 gene variants with ischemic stroke. 
+J Cereb Blood Flow Metab. 2008 Jan; 28(1):81-9. 
+
+
+Meschia JF, Case D, Brown RD, Silliman S, Merino J, Brott TG, Worrall BB, Frankel M, Hardy J, Rich SS. 
+Stroke Family History Is Not a Determinant of 90-Day Outcomes: The Ischemic Stroke Genetics Study 
+Annals of Neurology 2004; 56(Suppl 8):S16 
+
+
+Meschia JF, Barrett KM, Brott TG, Brown RD, Frankel MR, Worrall BB, Silliman SL, Merino JG, Case LD, Rich SS. 
+The Relationship Between Having and Reporting Neurological Deficits Does Not Differ By Patient Sex 
+Stroke 2005; 36(2):442-422 
+
+Meschia JF, Grott, TG, Brown RD, Crook, RJ, Kissela B, Brown WM, Rich SS, Case LD, Hague S, Singleton A, Hardy J. 
+Failure to Confirm That Either Phosphodiesterase 4D or 5-Lipoxygenase Activating Protein Is A Major Risk Factor Gene for Ischemic Stroke 
+Stroke 2005; 36(2):457 
+
+
+Worrall BB, Brott TG, Brown WM, Rich SS, Duckworth J, Vrieze FW, Singleton AB, Hardy J, Meschia JF. 
+Interlukin-1 Receptor Antagonist Gene Polymorphism in Ischemic Stroke 
+Stroke 2005; 36(2):459-460 
+
+
+Barrett KM, Brott TG, Brown RD, Worrall BB, Silliman SL, Frankel MR, Case D, Rich SS, Meschia JF. 
+Women and Men are Equally as Likely to Report Measurable stroke Deficits 
+Circulation 2005 Feb 1; 111(4):E87 
+
+
+Meschia JF, Case D, Brown RD, Silliman S, Brott TG, Worrall BB, Frankel M, Hardy J, Rich SS, Strecker KD. 
+Sex Differences in Stroke Subtypes in the Ischemic Stroke Genetics Study 
+Circulation 2005 Feb 1; 111(4):E86 
+
+
+Brown RD, Brott TG, Frankel MR, Silliman SS, Worrall BB, Rich SS, Case D, Merino JG, Meschia JF. 
+Racial/Ethnic Differences in Ischemic Stroke Subtypes 
+Neurology 2005 March; 64(6 Suppl 1):A60 
+
+
+Brown RD, Brott TG, Frankel MR, Silliman SS, Worrall BB, Case D, Rich SS, Merino JG, Meschia JF. 
+The Association of Family History of Stroke and Ischemic Stroke Subtype 
+14th European Stroke Conference, Bologna, Italy May 2005 
+
+
+Leslie-Mazwi T, Brott TG, Brown RD, Frankel M, Worrall BB, Case D, Rich SS, Silliman S, Meschia JF. 
+Evaluation of Stroke Does Not Vary By Sex In a 5-Center Hospital Based Genetic Association Study 
+Neurology 2006 March; 66(5 Suppl 2):A65-6 
+
+
+Rush BK, Case LD, Butler D, Richie A, Meschia JF, Brott TG for the Ischemic Stroke Genetics Study Investigators. 
+The Influence of Stroke Severity On Baseline Mental Status In Patients With First-Ever Ischemic Stroke: The Ischemic Stroke Genetics Study (ISGS) 
+The Clinical Neuropsychologist 2006; 20: 204 
+
+
+Rush BK, Meschia JF, Case LD, Brott TG. 
+Stroke Subtype May Influence the Relationship Between Subacute Neurologic Impairment and Cognitive Status: The Ischemic Stroke Genetics Study 
+Annals of Neurology 2006; 60(suppl 3): S88.  
+
+
+Meschia JF, Case LD, Brown WB, Singleton A, Brott TG, Brown RD, Jr., Worrall BB, Silliman S, Frankel M, Hardy J, Rich SS, Matarin M. 
+Genetic Variation in the Phosphodiesterase 4D gene is associated with ischemic stroke severity 
+Neurology 2007; 68: A343.  </Unparsed></Publication></Publications><Funding>R01 NS042733-01</Funding></StudyInfo><Authority><ICs><IC id="7" name="NINDS" is_funding_ic="false" is_admin_ic="false" primary="true"/></ICs><Persons><Person nedid="JMESCHIA" aid="2" auth="eRA" login="JMESCHIA" fname="James" mname="F" lname="Meschia" email="meschia.james@mayo.edu"><Role>PI</Role><Organization>MAYO CLINIC  JACKSONVILLE</Organization></Person><Person nedid="0010417382" aid="1" auth="cit" login="frances" fname="Francesca" mname="" lname="Bosetti" email="frances@mail.nih.gov"><Role>PO</Role><Organization>NIH</Organization></Person><Person nedid="0012988688" aid="1" auth="cit" login="popovan" fname="Natalia" mname="V" lname="Popova" email="popovan@ncbi.nlm.nih.gov"><Role>PHENO_CURATOR</Role><Organization>NIH</Organization></Person><Person nedid="0010146585" aid="1" auth="cit" login="zhangr" fname="Ran" mname="" lname="Zhang" email="zhangr@mail.nih.gov"><Role>GPA</Role><Organization>NIH</Organization></Person></Persons></Authority><Policy display-research-statement="true" display-public-summary="true" years-until-renewal="1" weeks-to-cancel-request="8" pub-embargo="none"><acknowledgement_statement>INSTRUCTIONS:  This study has not provided a suggested acknowledgement statement. However, Approved Users are expected to acknowledge the Submitting Investigator(s) who submitted data from the original study to an NIH-designated data repository, the primary funding organization that supported the Submitting Investigator(s), and the NIH-designated data repository (e.g., dbGaP).  The acknowledgment statement should include the dbGaP accession number to the specific version of the dataset(s) analyzed.</acknowledgement_statement><DUC universal_duc="Yes"><File full_url="https://dbgap.ncbi.nlm.nih.gov/aa/docs/Static_DUC_20190419.pdf" filename="Static_DUC_20190419.pdf" content-type="application/pdf"/></DUC><DUC_PDF universal_duc="Yes"><File full_url="https://dbgap.ncbi.nlm.nih.gov/aa/docs/Static_DUC_20190419.pdf" filename="Static_DUC_20190419.pdf" content-type="application/pdf"/></DUC_PDF><GSR_Access gsr_mode="unrest_access_by_timeout" gsr_mode_label="Unrestricted access (institution did not respond within six months)"/><ConsentGroup uid="8" CGType="cg_class_other" title="General research use " name="GRU" dac_uid="53" dac_name="NINDS" irb-approval-required="No"><Use-Restriction>These data will be used only for research purposes. They will not be used to determine the individual identity of any person or their relationship to another person.
+</Use-Restriction></ConsentGroup><ConsentGroup uid="9" CGType="cg_class_other" title="Stroke and Related Disorders" name="SARD" dac_uid="53" dac_name="NINDS" irb-approval-required="No"><Use-Restriction>Limited to studies of stroke and related conditions. Related conditions include disease of the nervous system related to oxygenation, perfusion of the brain, cerebral blood vessels, cerebral ischemia, including transient ischemic attack (TIA), sudden loss of consciousness of unknown origin, subarachnoid hemorrhage, and other Cerebrovascular accidents.</Use-Restriction></ConsentGroup><ConsentGroupLinks><ConsentGroupLink cg_uid_from="8"><StudyTo study_uid="10253" name="dbGaP Collection: Compilation of Individual-Level Genomic Data for General Research Use" accession="phs000688.v1"><ConsentGroupTo uid="1115" name="GRU"/></StudyTo></ConsentGroupLink></ConsentGroupLinks></Policy><SRA/><Documents/><Status uid="1" name="released" title="Released"/></Study></dbgapss>

@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8" ?><dbgapss xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="dbgapssws.1.0.xsd"><Study uid="21928" whole_study_id="5476" phs="000086" v="4" createDate="2016-10-28T09:17:22-05:00" modDate="2022-02-16T17:13:08-05:00" maxParentChildStudyModDate="2022-02-16T17:13:08-05:00" handle="DCCT_EDIC" num_participants="1441"><StudyInfo accession="phs000086.v4" parentAccession="phs000086.v4"><BioProject id="PRJNA75633" entrez_id="75633" type="bp_admin_access"/><BioProject id="PRJNA75635" entrez_id="75635" type="bp_data_submission"/><StudyNameReportPage/><StudyNameEntrez>Diabetes Control and Complications Trial (DCCT) and Epidemiology of Diabetes Interventions and Complications Study (EDIC) </StudyNameEntrez><StudyTypes2 calculated="Yes"><StudyType21 name="phenotype_data" chosen="No"/><StudyType21 name="analysis" chosen="No"/><StudyType21 name="individual_sequencing" chosen="No"/><StudyType21 name="supporting_documents" chosen="No"/><StudyType21 name="images" chosen="No"/><StudyType21 name="molecular" chosen="No"/><StudyType21 name="subject_samples" chosen="No"/><StudyType21 name="links_to_ncbi_dbs" chosen="No"/><StudyType21 name="other_general" chosen="No"/></StudyTypes2><Publications><Publication><Unparsed>. 
+The effect of intensive treatment of diabetes on the development and progression of long-term complications in insulin-dependent diabetes mellitus. The Diabetes Control and Complications Trial Research Group. 
+N Engl J Med. 1993 Sep 30; 329(14):977-86. 
+Note:DCCT Research Group 
+
+. 
+Implementation of treatment protocols in the Diabetes Control and Complications Trial. 
+Diabetes Care. 1995 Mar; 18(3):361-76. 
+Note:DCCT Research Group 
+
+. 
+Epidemiology of Diabetes Interventions and Complications (EDIC). Design, implementation, and preliminary results of a long-term follow-up of the Diabetes Control and Complications Trial cohort. 
+Diabetes Care. 1999 Jan; 22(1):99-111. 
+Note:DCCT-EDIC Research Group 
+
+Writing Team for the Diabetes Control and Complications Trial/Epidemiology of Diabetes Interventions and Complications Research Group. 
+Effect of intensive therapy on the microvascular complications of type 1 diabetes mellitus. 
+JAMA. 2002 May 15; 287(19):2563-9. 
+Note:DCCT-EDIC Research Group 
+
+. 
+Retinopathy and nephropathy in patients with type 1 diabetes four years after a trial of intensive therapy. The Diabetes Control and Complications Trial/Epidemiology of Diabetes Interventions and Complications Research Group. 
+N Engl J Med. 2000 Feb 10; 342(6):381-9. 
+Note:EDIC Research Group 
+
+Writing Team for the Diabetes Control and Complications Trial/Epidemiology of Diabetes Interventions and Complications Research Group. 
+Sustained effect of intensive treatment of type 1 diabetes mellitus on development and progression of diabetic nephropathy: the Epidemiology of Diabetes Interventions and Complications (EDIC) study. 
+JAMA. 2003 Oct 22; 290(16):2159-67. 
+Note:DCCT-EDIC Research Group 
+
+Nathan DM, Lachin J, Cleary P, Orchard T, Brillon DJ, Backlund JY, O'Leary DH, Genuth S, Diabetes Control and Complications Trial, Epidemiology of Diabetes Interventions and Complications Research Group. 
+Intensive diabetes therapy and carotid intima-media thickness in type 1 diabetes mellitus. 
+N Engl J Med. 2003 Jun 5; 348(23):2294-303. 
+Note:DCCT-EDIC Research Group 
+
+Nathan DM, Cleary PA, Backlund JY, Genuth SM, Lachin JM, Orchard TJ, Raskin P, Zinman B, Diabetes Control and Complications Trial/Epidemiology of Diabetes Interventions and Complications (DCCT/EDIC) Study Research Group. 
+Intensive diabetes treatment and cardiovascular disease in patients with type 1 diabetes. 
+N Engl J Med. 2005 Dec 22; 353(25):2643-53. 
+Note:DCCT-EDIC Research Group 
+
+Cleary P, Orchard T, Zinman B, Wong N, Detrano R, Backlund J-Y, Genuth S. 
+Coronary calcification in the Diabetes Control and Complications trial-Epidemiology of Diabetes interventions and Complications (DCCT-EDIC) cohort 
+Diabetes 2003;52(suppl 2):A152 
+</Unparsed></Publication></Publications><Funding>N01-DK-6-2204</Funding></StudyInfo><Authority><ICs><IC id="11" name="NIDDK" is_funding_ic="false" is_admin_ic="false" primary="true"/></ICs><Persons><Person nedid="JMLACHIN" aid="2" auth="eRA" login="JMLACHIN" fname="John" mname="M" lname="Lachin" email="jml@bsc.gwu.edu"><Role>PI</Role><Organization>GEORGE WASHINGTON UNIVERSITY</Organization></Person><Person nedid="0010042213" aid="1" auth="cit" login="rasoolyr" fname="Rebekah" mname="Sarah" lname="Rasooly" email="rasoolyr@mail.nih.gov"><Role>PO</Role><Organization>NIH</Organization></Person><Person nedid="APATERSON" aid="2" auth="eRA" login="APATERSON" fname="Andrew" mname="D" lname="Paterson" email="andrew.paterson@utoronto.ca"><Role>PI_ASSIST</Role><Organization>HOSPITAL FOR SICK CHLDRN (TORONTO)</Organization></Person><Person nedid="0012988688" aid="1" auth="cit" login="popovan" fname="Natalia" mname="V" lname="Popova" email="popovan@ncbi.nlm.nih.gov"><Role>PHENO_CURATOR</Role><Organization>NIH</Organization></Person><Person nedid="0011559580" aid="1" auth="cit" login="stefanov" fname="Stefan" mname="Alexandrov" lname="Stefanov" email="stefanov@mail.nih.gov"><Role>GENO_CURATOR</Role><Organization>NIH</Organization></Person><Person nedid="2003219528" aid="1" auth="cit" login="pawlikowskals" fname="Ludmila" mname="Sylwia" lname="Pawlikowska" email="ludmila.pawlikowska@nih.gov"><Role>GPA</Role><Organization>NIH</Organization></Person></Persons></Authority><Policy display-research-statement="true" display-public-summary="true" years-until-renewal="1" weeks-to-cancel-request="8" pub-embargo="none"><acknowledgement_statement>INSTRUCTIONS:  This study has not provided a suggested acknowledgement statement. However, Approved Users are expected to acknowledge the Submitting Investigator(s) who submitted data from the original study to an NIH-designated data repository, the primary funding organization that supported the Submitting Investigator(s), and the NIH-designated data repository (e.g., dbGaP).  The acknowledgment statement should include the dbGaP accession number to the specific version of the dataset(s) analyzed.</acknowledgement_statement><ic_specific_access_term/><DUC universal_duc="Yes"><File full_url="https://dbgap.ncbi.nlm.nih.gov/aa/docs/Static_DUC_20190419.pdf" filename="Static_DUC_20190419.pdf" content-type="application/pdf"/></DUC><DUC_PDF universal_duc="Yes"><File full_url="https://dbgap.ncbi.nlm.nih.gov/aa/docs/Static_DUC_20190419.pdf" filename="Static_DUC_20190419.pdf" content-type="application/pdf"/></DUC_PDF><GSR_Access gsr_mode="unrest_access_old_cert" gsr_mode_label="Unrestricted access (institution responded that the study is not sensitive without submitting a new Institutional Certification)"/><ConsentGroup uid="115" CGType="cg_class_DS" title="Disease-Specific (Type 1 Diabetes, IRB)" name="DS-T1D-IRB" dac_uid="60" dac_name="NIDDK" irb-approval-required="Yes"><Use-Restriction>Use of the data must be related to Type 1 Diabetes.
+Requestor must provide documentation of local IRB approval.
+
+</Use-Restriction></ConsentGroup><ConsentGroup uid="1353" CGType="cg_class_DS" title="Disease-Specific (Diabetes and Related Complications, IRB)" name="DS-DRC-IRB" dac_uid="60" dac_name="NIDDK" irb-approval-required="Yes"><Use-Restriction>Use of the data must be related to Diabetes and Related Complications.
+Requestor must provide documentation of local IRB approval.
+
+</Use-Restriction></ConsentGroup></Policy><SRA/><Documents/><Status uid="3" name="incomplete" title="Incomplete"/></Study><Study uid="11482" whole_study_id="5476" phs="000086" v="3" p="1" createDate="2014-06-04T15:58:33-05:00" completedByGPADate="2014-06-04T15:59:35-05:00" modDate="2022-02-16T17:13:07-05:00" maxParentChildStudyModDate="2022-02-16T17:13:07-05:00" handle="DCCT_EDIC" num_participants="1441"><StudyInfo accession="phs000086.v3.p1" parentAccession="phs000086.v3.p1"><BioProject id="PRJNA75633" entrez_id="75633" type="bp_admin_access"/><BioProject id="PRJNA75635" entrez_id="75635" type="bp_data_submission"/><StudyNameReportPage/><StudyNameEntrez>Diabetes Control and Complications Trial (DCCT) and Epidemiology of Diabetes Interventions and Complications Study (EDIC) </StudyNameEntrez><StudyTypes2 calculated="Yes"><StudyType21 name="phenotype_data" chosen="No"/><StudyType21 name="analysis" chosen="No"/><StudyType21 name="individual_sequencing" chosen="No"/><StudyType21 name="supporting_documents" chosen="No"/><StudyType21 name="images" chosen="No"/><StudyType21 name="molecular" chosen="No"/><StudyType21 name="subject_samples" chosen="No"/><StudyType21 name="links_to_ncbi_dbs" chosen="No"/><StudyType21 name="other_general" chosen="No"/></StudyTypes2><Publications><Publication><Unparsed>. 
+The effect of intensive treatment of diabetes on the development and progression of long-term complications in insulin-dependent diabetes mellitus. The Diabetes Control and Complications Trial Research Group. 
+N Engl J Med. 1993 Sep 30; 329(14):977-86. 
+Note:DCCT Research Group 
+
+. 
+Implementation of treatment protocols in the Diabetes Control and Complications Trial. 
+Diabetes Care. 1995 Mar; 18(3):361-76. 
+Note:DCCT Research Group 
+
+. 
+Epidemiology of Diabetes Interventions and Complications (EDIC). Design, implementation, and preliminary results of a long-term follow-up of the Diabetes Control and Complications Trial cohort. 
+Diabetes Care. 1999 Jan; 22(1):99-111. 
+Note:DCCT-EDIC Research Group 
+
+Writing Team for the Diabetes Control and Complications Trial/Epidemiology of Diabetes Interventions and Complications Research Group. 
+Effect of intensive therapy on the microvascular complications of type 1 diabetes mellitus. 
+JAMA. 2002 May 15; 287(19):2563-9. 
+Note:DCCT-EDIC Research Group 
+
+. 
+Retinopathy and nephropathy in patients with type 1 diabetes four years after a trial of intensive therapy. The Diabetes Control and Complications Trial/Epidemiology of Diabetes Interventions and Complications Research Group. 
+N Engl J Med. 2000 Feb 10; 342(6):381-9. 
+Note:EDIC Research Group 
+
+Writing Team for the Diabetes Control and Complications Trial/Epidemiology of Diabetes Interventions and Complications Research Group. 
+Sustained effect of intensive treatment of type 1 diabetes mellitus on development and progression of diabetic nephropathy: the Epidemiology of Diabetes Interventions and Complications (EDIC) study. 
+JAMA. 2003 Oct 22; 290(16):2159-67. 
+Note:DCCT-EDIC Research Group 
+
+Nathan DM, Lachin J, Cleary P, Orchard T, Brillon DJ, Backlund JY, O'Leary DH, Genuth S, Diabetes Control and Complications Trial, Epidemiology of Diabetes Interventions and Complications Research Group. 
+Intensive diabetes therapy and carotid intima-media thickness in type 1 diabetes mellitus. 
+N Engl J Med. 2003 Jun 5; 348(23):2294-303. 
+Note:DCCT-EDIC Research Group 
+
+Nathan DM, Cleary PA, Backlund JY, Genuth SM, Lachin JM, Orchard TJ, Raskin P, Zinman B, Diabetes Control and Complications Trial/Epidemiology of Diabetes Interventions and Complications (DCCT/EDIC) Study Research Group. 
+Intensive diabetes treatment and cardiovascular disease in patients with type 1 diabetes. 
+N Engl J Med. 2005 Dec 22; 353(25):2643-53. 
+Note:DCCT-EDIC Research Group 
+
+Cleary P, Orchard T, Zinman B, Wong N, Detrano R, Backlund J-Y, Genuth S. 
+Coronary calcification in the Diabetes Control and Complications trial-Epidemiology of Diabetes interventions and Complications (DCCT-EDIC) cohort 
+Diabetes 2003;52(suppl 2):A152 
+</Unparsed></Publication></Publications><Funding>N01-DK-6-2204</Funding></StudyInfo><Authority><ICs><IC id="11" name="NIDDK" is_funding_ic="false" is_admin_ic="false" primary="true"/></ICs><Persons><Person nedid="JMLACHIN" aid="2" auth="eRA" login="JMLACHIN" fname="John" mname="M" lname="Lachin" email="jml@bsc.gwu.edu"><Role>PI</Role><Organization>GEORGE WASHINGTON UNIVERSITY</Organization></Person><Person nedid="0010042213" aid="1" auth="cit" login="rasoolyr" fname="Rebekah" mname="Sarah" lname="Rasooly" email="rasoolyr@mail.nih.gov"><Role>PO</Role><Organization>NIH</Organization></Person><Person nedid="APATERSON" aid="2" auth="eRA" login="APATERSON" fname="Andrew" mname="D" lname="Paterson" email="andrew.paterson@utoronto.ca"><Role>PI_ASSIST</Role><Organization>HOSPITAL FOR SICK CHLDRN (TORONTO)</Organization></Person><Person nedid="0012988688" aid="1" auth="cit" login="popovan" fname="Natalia" mname="V" lname="Popova" email="popovan@ncbi.nlm.nih.gov"><Role>PHENO_CURATOR</Role><Organization>NIH</Organization></Person><Person nedid="0011552437" aid="1" auth="cit" login="jawang" fname="Zhen" mname="Yuan" lname="Wang" email="zhen.wang@nih.gov"><Role>GENO_CURATOR</Role><Organization>NIH</Organization></Person><Person nedid="2003219528" aid="1" auth="cit" login="pawlikowskals" fname="Ludmila" mname="Sylwia" lname="Pawlikowska" email="ludmila.pawlikowska@nih.gov"><Role>GPA</Role><Organization>NIH</Organization></Person></Persons></Authority><Policy display-research-statement="true" display-public-summary="true" years-until-renewal="1" weeks-to-cancel-request="8" pub-embargo="none"><acknowledgement_statement>INSTRUCTIONS:  This study has not provided a suggested acknowledgement statement. However, Approved Users are expected to acknowledge the Submitting Investigator(s) who submitted data from the original study to an NIH-designated data repository, the primary funding organization that supported the Submitting Investigator(s), and the NIH-designated data repository (e.g., dbGaP).  The acknowledgment statement should include the dbGaP accession number to the specific version of the dataset(s) analyzed.</acknowledgement_statement><ic_specific_access_term/><DUC universal_duc="Yes"><File full_url="https://dbgap.ncbi.nlm.nih.gov/aa/docs/Static_DUC_20190419.pdf" filename="Static_DUC_20190419.pdf" content-type="application/pdf"/></DUC><DUC_PDF universal_duc="Yes"><File full_url="https://dbgap.ncbi.nlm.nih.gov/aa/docs/Static_DUC_20190419.pdf" filename="Static_DUC_20190419.pdf" content-type="application/pdf"/></DUC_PDF><ConsentGroup uid="115" CGType="cg_class_DS" title="Disease-Specific (Type 1 Diabetes, IRB)" name="DS-T1D-IRB" dac_uid="60" dac_name="NIDDK" irb-approval-required="Yes"><Use-Restriction>Use of the data must be related to Type 1 Diabetes.
+Requestor must provide documentation of local IRB approval.
+
+</Use-Restriction></ConsentGroup><ConsentGroup uid="1353" CGType="cg_class_DS" title="Disease-Specific (Diabetes and Related Complications, IRB)" name="DS-DRC-IRB" dac_uid="60" dac_name="NIDDK" irb-approval-required="Yes"><Use-Restriction>Use of the data must be related to Diabetes and Related Complications.
+Requestor must provide documentation of local IRB approval.
+
+</Use-Restriction></ConsentGroup></Policy><SRA/><Documents/><Status uid="1" name="released" title="Released"/></Study><Study uid="5798" whole_study_id="5476" phs="000086" v="2" p="1" createDate="2009-12-10T11:46:15-05:00" modDate="2020-09-01T09:36:24-05:00" maxParentChildStudyModDate="2020-09-01T09:36:24-05:00" handle="NIDDK_DCCT_EDIC" num_participants="1441"><StudyInfo accession="phs000086.v2.p1" parentAccession="phs000086.v2.p1"><BioProject id="PRJNA75633" entrez_id="75633" type="bp_admin_access"/><BioProject id="PRJNA75635" entrez_id="75635" type="bp_data_submission"/><StudyNameReportPage/><StudyNameEntrez>Diabetes Control and Complications Trial (DCCT) and Epidemiology of Diabetes Interventions and Complications Study (EDIC) </StudyNameEntrez><StudyTypes2 calculated="Yes"><StudyType21 name="phenotype_data" chosen="No"/><StudyType21 name="analysis" chosen="No"/><StudyType21 name="individual_sequencing" chosen="No"/><StudyType21 name="supporting_documents" chosen="No"/><StudyType21 name="images" chosen="No"/><StudyType21 name="molecular" chosen="No"/><StudyType21 name="subject_samples" chosen="No"/><StudyType21 name="links_to_ncbi_dbs" chosen="No"/><StudyType21 name="other_general" chosen="No"/></StudyTypes2><Description>
+&lt;p&gt;The Diabetes Control and Complications Trial (DCCT, 1982-93) and the Epidemiology of Diabetes Interventions and Complications
+
+    follow-up study (EDIC, 1994-2016) have been ongoing for more than twenty years.  After a mean follow-up of approximately 16 years,
+
+  the DCCT-EDIC cohort of 1,441 Type 1 diabetics had remained remarkably complete with more than 90% of the original cohort being
+
+  actively followed. Taken together, the DCCT clinical trial and subsequent EDIC longitudinal follow-up provide a uniquely rich source
+
+  of information on the impact of intensive therapy on glycemia and the its long-term complications for persons with Type 1 diabetes.
+
+ &lt;/p&gt;
+
+    &lt;p&gt;The DCCT was a multicenter, randomized clinical trial (1, 2) designed to compare intensive with conventional diabetes therapy with regard
+
+ to their effects on the development and progression of the early complications of Type 1 diabetes.  The DCCT trial found that "intensive
+
+ therapy effectively delays the onset and slows the progression of diabetic retinopathy, nephropathy, and neuropathy" in patients with Type
+
+ 1 diabetes (1).  The goal of the EDIC follow-up was to examine the longer term effects of the original DCCT interventions, especially as
+
+ they apply to late-occurring complications, such as cardiovascular disease and more advanced stages of retinal and renal disease (3).
+
+ The EDIC study has been remarkably fruitful in discovering the long term "imprinting" effects (metabolic memory) of the previous intensive
+
+ therapy, and in delineating the interactions among risk factors with regard to microvascular complications (4-6).  In addition, EDIC
+
+ established, for the first time, the role of intensive therapy and chronic glycemia on atherosclerosis (7-9).
+
+ &lt;/p&gt;
+
+ &lt;p&gt;&lt;b&gt;Note:&lt;/b&gt; This study description has been prepared using materials authored by the DCCT-EDIC Data Coordinating Center.&lt;/p&gt;
+
+ &lt;p&gt;&lt;a href="GetPdf.cgi?id=phd000390" target="_blank"&gt;DETAILED DESCRIPTION OF STUDY&lt;/a&gt;&lt;/p&gt;
+ </Description><StudyURLs><Url name="NIDDK" url="http://www2.niddk.nih.gov/"/><Url name="NIDDK DCCT" url="http://diabetes.niddk.nih.gov/dm/pubs/control/index.htm"/><Url name="NIDDK EDIC" url="http://www.niddk.nih.gov/patient/edic/edic-public.htm"/><Url name="The Biostatistics Center - EDIC" url="http://www.bsc.gwu.edu/bsc/studies/edic.html"/><Url name="NIDDK Central Repository" url="https://www.niddkrepository.org/niddk/home.do"/></StudyURLs><Publications><Publication><Pubmed pmid="8366922"/></Publication><Publication><Pubmed pmid="7555480"/></Publication><Publication><Pubmed pmid="10333910"/></Publication><Publication><Pubmed pmid="12020338"/></Publication><Publication><Pubmed pmid="10666428"/></Publication><Publication><Pubmed pmid="14570951"/></Publication><Publication><Pubmed pmid="12788993"/></Publication><Publication><Pubmed pmid="16371630"/></Publication><Publication><Journal authors="Cleary P, Orchard T, Zinman B, Wong N, Detrano R, Backlund J-Y, Genuth S" title="Coronary calcification in the Diabetes Control and Complications trial-Epidemiology of Diabetes interventions and Complications (DCCT-EDIC) cohort" journal="Diabetes 2003;52(suppl 2):A152"/></Publication><Publication><Unparsed>. 
+The effect of intensive treatment of diabetes on the development and progression of long-term complications in insulin-dependent diabetes mellitus. The Diabetes Control and Complications Trial Research Group. 
+N Engl J Med. 1993 Sep 30; 329(14):977-86. 
+Note:DCCT Research Group 
+
+. 
+Implementation of treatment protocols in the Diabetes Control and Complications Trial. 
+Diabetes Care. 1995 Mar; 18(3):361-76. 
+Note:DCCT Research Group 
+
+. 
+Epidemiology of Diabetes Interventions and Complications (EDIC). Design, implementation, and preliminary results of a long-term follow-up of the Diabetes Control and Complications Trial cohort. 
+Diabetes Care. 1999 Jan; 22(1):99-111. 
+Note:DCCT-EDIC Research Group 
+
+Writing Team for the Diabetes Control and Complications Trial/Epidemiology of Diabetes Interventions and Complications Research Group. 
+Effect of intensive therapy on the microvascular complications of type 1 diabetes mellitus. 
+JAMA. 2002 May 15; 287(19):2563-9. 
+Note:DCCT-EDIC Research Group 
+
+. 
+Retinopathy and nephropathy in patients with type 1 diabetes four years after a trial of intensive therapy. The Diabetes Control and Complications Trial/Epidemiology of Diabetes Interventions and Complications Research Group. 
+N Engl J Med. 2000 Feb 10; 342(6):381-9. 
+Note:EDIC Research Group 
+
+Writing Team for the Diabetes Control and Complications Trial/Epidemiology of Diabetes Interventions and Complications Research Group. 
+Sustained effect of intensive treatment of type 1 diabetes mellitus on development and progression of diabetic nephropathy: the Epidemiology of Diabetes Interventions and Complications (EDIC) study. 
+JAMA. 2003 Oct 22; 290(16):2159-67. 
+Note:DCCT-EDIC Research Group 
+
+Nathan DM, Lachin J, Cleary P, Orchard T, Brillon DJ, Backlund JY, O'Leary DH, Genuth S, Diabetes Control and Complications Trial, Epidemiology of Diabetes Interventions and Complications Research Group. 
+Intensive diabetes therapy and carotid intima-media thickness in type 1 diabetes mellitus. 
+N Engl J Med. 2003 Jun 5; 348(23):2294-303. 
+Note:DCCT-EDIC Research Group 
+
+Nathan DM, Cleary PA, Backlund JY, Genuth SM, Lachin JM, Orchard TJ, Raskin P, Zinman B, Diabetes Control and Complications Trial/Epidemiology of Diabetes Interventions and Complications (DCCT/EDIC) Study Research Group. 
+Intensive diabetes treatment and cardiovascular disease in patients with type 1 diabetes. 
+N Engl J Med. 2005 Dec 22; 353(25):2643-53. 
+Note:DCCT-EDIC Research Group 
+
+Cleary P, Orchard T, Zinman B, Wong N, Detrano R, Backlund J-Y, Genuth S. 
+Coronary calcification in the Diabetes Control and Complications trial-Epidemiology of Diabetes interventions and Complications (DCCT-EDIC) cohort 
+Diabetes 2003;52(suppl 2):A152 
+</Unparsed></Publication></Publications><Funding>N01-DK-6-2204</Funding></StudyInfo><Authority><ICs><IC id="11" name="NIDDK" is_funding_ic="false" is_admin_ic="false" primary="true"/></ICs><Persons><Person nedid="JMLACHIN" aid="2" auth="eRA" login="JMLACHIN" fname="John" mname="M" lname="Lachin" email="jml@bsc.gwu.edu"><Role>PI</Role><Organization>GEORGE WASHINGTON UNIVERSITY</Organization></Person><Person nedid="0010042213" aid="1" auth="cit" login="rasoolyr" fname="Rebekah" mname="Sarah" lname="Rasooly" email="rasoolyr@mail.nih.gov"><Role>PO</Role><Organization>NIH</Organization></Person><Person nedid="0012988688" aid="1" auth="cit" login="popovan" fname="Natalia" mname="V" lname="Popova" email="popovan@ncbi.nlm.nih.gov"><Role>PHENO_CURATOR</Role><Organization>NIH</Organization></Person><Person nedid="0010044848" aid="1" auth="cit" login="mckeoncx" fname="Catherine" mname="" lname="Mckeon" email="mckeonc@extra.niddk.nih.gov"><Role>GPA</Role><Organization/></Person></Persons></Authority><Policy display-research-statement="true" display-public-summary="true" years-until-renewal="3" weeks-to-cancel-request="8" pub-embargo="none"><DUC><File uri="dbgapssws.cgi?blob_id=5800&amp;file=get&amp;page=file" filename="NIDDK_DUC_FINAL_2009December01(2).pdf" md5="cea89fe6b13972bb40790eb0310384f3" size="69125" modDate="2009-12-11T11:25:34-05:00" content-type="application/pdf"/></DUC><DUC_PDF><File uri="dbgapssws.cgi?blob_id=5800&amp;file=get&amp;page=file" filename="NIDDK_DUC_FINAL_2009December01(2).pdf" md5="cea89fe6b13972bb40790eb0310384f3" size="69125" modDate="2009-12-11T11:25:34-05:00" content-type="application/pdf"/></DUC_PDF><ConsentGroup uid="115" CGType="cg_class_other" title="Research on Type 1 Diabetes " name="RT1D" dac_uid="60" dac_name="NIDDK" irb-approval-required="Yes"><Use-Restriction>Research on Type 1 Diabetes Only</Use-Restriction></ConsentGroup><ConsentGroup uid="116" CGType="cg_class_other"><Use-Restriction/></ConsentGroup></Policy><SRA/><Documents/><Status uid="1" name="released" title="Released"/></Study><Study uid="5476" whole_study_id="5476" phs="000086" v="1" p="1" createDate="2009-01-16T09:52:23-05:00" modDate="2020-09-01T10:14:38-05:00" maxParentChildStudyModDate="2020-09-01T10:14:38-05:00" handle="NIDDK_DCCT_EDIC" num_participants="1441"><StudyInfo accession="phs000086.v1.p1" parentAccession="phs000086.v1.p1"><StudyNameReportPage/><StudyNameEntrez>Diabetes Control and Complications Trial (DCCT) and Epidemiology of Diabetes Interventions and Complications Study (EDIC) </StudyNameEntrez><StudyTypes2 calculated="Yes"><StudyType21 name="phenotype_data" chosen="No"/><StudyType21 name="analysis" chosen="No"/><StudyType21 name="individual_sequencing" chosen="No"/><StudyType21 name="supporting_documents" chosen="No"/><StudyType21 name="images" chosen="No"/><StudyType21 name="molecular" chosen="No"/><StudyType21 name="subject_samples" chosen="No"/><StudyType21 name="links_to_ncbi_dbs" chosen="No"/><StudyType21 name="other_general" chosen="No"/></StudyTypes2><Description>The Diabetes Control and Complications Trial (DCCT, 1982-93) and the Epidemiology of Diabetes Interventions and Complications follow-up study (EDIC, 1994-2016) have been ongoing for more than twenty years. After a mean follow-up of approximately 16 years, the DCCT-EDIC cohort of 1,441 Type 1 diabetics had remained remarkably complete with more than 90% of the original cohort being actively followed. Taken together, the DCCT clinical trial and subsequent EDIC longitudinal follow-up provide a uniquely rich source of information on the impact of intensive therapy on glycemia and the its long-term complications for persons with Type 1 diabetes. 
+
+The DCCT was a multicenter, randomized clinical trial (1, 2) designed to compare intensive with conventional diabetes therapy with regard to their effects on the development and progression of the early complications of Type 1 diabetes. The DCCT trial found that "intensive therapy effectively delays the onset and slows the progression of diabetic retinopathy, nephropathy, and neuropathy" in patients with Type 1 diabetes (1). The goal of the EDIC follow-up was to examine the longer term effects of the original DCCT interventions, especially as they apply to late-occurring complications, such as cardiovascular disease and more advanced stages of retinal and renal disease (3). The EDIC study has been remarkably fruitful in discovering the long term "imprinting" effects (metabolic memory) of the previous intensive therapy, and in delineating the interactions among risk factors with regard to microvascular complications (4-6). In addition, EDIC established, for the first time, the role of intensive therapy and chronic glycemia on atherosclerosis (7-9). 
+
+Note: This study description has been prepared using materials authored by the DCCT-EDIC Data Coordinating Center.
+</Description><StudyHistory/><Publications><Publication><Unparsed>. 
+The effect of intensive treatment of diabetes on the development and progression of long-term complications in insulin-dependent diabetes mellitus. The Diabetes Control and Complications Trial Research Group. 
+N Engl J Med. 1993 Sep 30; 329(14):977-86. 
+Note:DCCT Research Group 
+
+. 
+Implementation of treatment protocols in the Diabetes Control and Complications Trial. 
+Diabetes Care. 1995 Mar; 18(3):361-76. 
+Note:DCCT Research Group 
+
+. 
+Epidemiology of Diabetes Interventions and Complications (EDIC). Design, implementation, and preliminary results of a long-term follow-up of the Diabetes Control and Complications Trial cohort. 
+Diabetes Care. 1999 Jan; 22(1):99-111. 
+Note:DCCT-EDIC Research Group 
+
+Writing Team for the Diabetes Control and Complications Trial/Epidemiology of Diabetes Interventions and Complications Research Group. 
+Effect of intensive therapy on the microvascular complications of type 1 diabetes mellitus. 
+JAMA. 2002 May 15; 287(19):2563-9. 
+Note:DCCT-EDIC Research Group 
+
+. 
+Retinopathy and nephropathy in patients with type 1 diabetes four years after a trial of intensive therapy. The Diabetes Control and Complications Trial/Epidemiology of Diabetes Interventions and Complications Research Group. 
+N Engl J Med. 2000 Feb 10; 342(6):381-9. 
+Note:EDIC Research Group 
+
+Writing Team for the Diabetes Control and Complications Trial/Epidemiology of Diabetes Interventions and Complications Research Group. 
+Sustained effect of intensive treatment of type 1 diabetes mellitus on development and progression of diabetic nephropathy: the Epidemiology of Diabetes Interventions and Complications (EDIC) study. 
+JAMA. 2003 Oct 22; 290(16):2159-67. 
+Note:DCCT-EDIC Research Group 
+
+Nathan DM, Lachin J, Cleary P, Orchard T, Brillon DJ, Backlund JY, O'Leary DH, Genuth S, Diabetes Control and Complications Trial, Epidemiology of Diabetes Interventions and Complications Research Group. 
+Intensive diabetes therapy and carotid intima-media thickness in type 1 diabetes mellitus. 
+N Engl J Med. 2003 Jun 5; 348(23):2294-303. 
+Note:DCCT-EDIC Research Group 
+
+Nathan DM, Cleary PA, Backlund JY, Genuth SM, Lachin JM, Orchard TJ, Raskin P, Zinman B, Diabetes Control and Complications Trial/Epidemiology of Diabetes Interventions and Complications (DCCT/EDIC) Study Research Group. 
+Intensive diabetes treatment and cardiovascular disease in patients with type 1 diabetes. 
+N Engl J Med. 2005 Dec 22; 353(25):2643-53. 
+Note:DCCT-EDIC Research Group 
+
+Cleary P, Orchard T, Zinman B, Wong N, Detrano R, Backlund J-Y, Genuth S. 
+Coronary calcification in the Diabetes Control and Complications trial-Epidemiology of Diabetes interventions and Complications (DCCT-EDIC) cohort 
+Diabetes 2003;52(suppl 2):A152 
+</Unparsed></Publication></Publications></StudyInfo><Authority><ICs><IC id="11" name="NIDDK" is_funding_ic="false" is_admin_ic="false" primary="true"/></ICs><Persons><Person nedid="0010042213" aid="1" auth="cit" login="rasoolyr" fname="Rebekah" mname="Sarah" lname="Rasooly" email="rasoolyr@mail.nih.gov"><Role>PO</Role><Organization>NIH</Organization></Person><Person nedid="0012988688" aid="1" auth="cit" login="popovan" fname="Natalia" mname="V" lname="Popova" email="popovan@ncbi.nlm.nih.gov"><Role>PHENO_CURATOR</Role><Organization>NIH</Organization></Person></Persons></Authority><Policy display-research-statement="true" display-public-summary="true" years-until-renewal="3" weeks-to-cancel-request="8" pub-embargo="none"><ConsentGroup uid="39" CGType="cg_class_other" title="Research on Type 1 Diabetes " name="RT1D" dac_uid="60" dac_name="NIDDK" irb-approval-required="Yes"><Use-Restriction>Research on Type 1 Diabetes Only</Use-Restriction></ConsentGroup><ConsentGroup uid="40" CGType="cg_class_other" title="Diabetes and Related Complications" name="DRC" dac_uid="60" dac_name="NIDDK" irb-approval-required="Yes"><Use-Restriction>Studies of Diabetes melitus, kidney disease, large blood vessel, eye and nerve complications of diabetes melitus.</Use-Restriction></ConsentGroup></Policy><SRA/><Documents/><Status uid="1" name="released" title="Released"/></Study></dbgapss>

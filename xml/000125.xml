@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8" ?><dbgapss xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="dbgapssws.1.0.xsd"><Study uid="5503" whole_study_id="5503" phs="000125" v="1" p="1" createDate="2009-03-11T11:18:15-05:00" completedByGPADate="2018-05-02T16:44:28-05:00" modDate="2018-06-25T14:06:55-05:00" maxParentChildStudyModDate="2018-06-25T14:06:55-05:00" handle="CIDR_COGA" num_participants="1945"><StudyInfo accession="phs000125.v1.p1" parentAccession="phs000125.v1.p1"><BioProject id="PRJNA75781" entrez_id="75781" type="bp_admin_access"/><BioProject id="PRJNA75783" entrez_id="75783" type="bp_data_submission"/><StudyNameEntrez>CIDR: Collaborative Study on the Genetics of Alcoholism (COGA)</StudyNameEntrez><StudyTypes2 calculated="Yes"><StudyType21 name="phenotype_data" chosen="Yes"/><StudyType21 name="analysis" chosen="Yes"/><StudyType21 name="individual_sequencing" chosen="No"/><StudyType21 name="supporting_documents" chosen="No"/><StudyType21 name="images" chosen="No"/><StudyType21 name="molecular" chosen="Yes"><StudyType22 name="array_multi_sample_gen"/></StudyType21><StudyType21 name="subject_samples" chosen="Yes"><StudyType22 name="dna"/></StudyType21><StudyType21 name="links_to_ncbi_dbs" chosen="No"/><StudyType21 name="other_general" chosen="No"/></StudyTypes2><StudyTypes><StudyType>phenotype_data</StudyType><StudyType>genotype_data</StudyType><StudyType>dna</StudyType><StudyType>snp_array</StudyType><StudyType>array_derived_genotypes</StudyType><StudyType>analysis</StudyType></StudyTypes><Description>
+&lt;p&gt;This is a case-control study of alcoholism, in which the subjects have been drawn from the Collaborative Study on the
+
+   Genetics of Alcoholism (COGA), a large, ongoing family-based study that includes subjects from seven sites around the US.
+
+   COGA has gathered detailed, standardized data on study participants, including diagnostic and neurophysiological assessments.
+
+   This sample has already proved successful in identifying several genes that influence the risk for alcoholism and
+
+   neurophysiological endophenotypes, which have been independently replicated. COGA data were included as part of two Genetic
+
+   Analysis Workshops, and the phenotypes are familiar to the genetics community.&lt;/p&gt;
+
+ &lt;p&gt;Alcoholic probands were recruited from treatment facilities, assessed by personal interview, and after securing permission,
+
+   other family members were also assessed. A set of comparison families was drawn from the same communities as the families
+
+   recruited through an alcoholic proband. Assessment involved a detailed personal interview developed for this project, the
+
+   Semi-Structured Assessment for the Genetics of Alcoholism (SSAGA), which gathers detailed information on alcoholism related
+
+   symptoms along with other drugs and psychiatric symptoms. Many participants also came to the laboratories for
+
+   electroencephalographic studies. Neurophysiological features that have been shown to be useful endophenotypes for which
+
+   we have linkage and in some cases association results are included on a subset of the case-control sample: the beta power of
+
+   the resting electroencephalogram (EEG), the P3(00) amplitude of the visual event-related potential (ERP), and the theta and
+
+   delta event-related oscillations (EROs) underlying the P3 (See Porjesz et al., 2005; Porjesz and Rangaswamy, 2007 for reviews).&lt;/p&gt;
+
+ &lt;p&gt;A brief description of COGA is in Edenberg, H. J. (2002) The Collaborative Study on the Genetics of Alcoholism: an update.
+
+   Alcohol Res Health 26, 214-218., Bierut, LJ, NL Saccone, JP Rice, A Goate, T Foroud, HJ Edenberg, L Almasy, PM Conneally, R Crowe,
+
+ V Hesselbrock, T-K Li, JI Nurnberger, Jr, B Porjesz, MA Schuckit, J Tischfield, H Begleiter, and T Reich (2002) Defining
+
+   alcohol-related phenotypes in humans: The Collaborative Study on the Genetics of Alcoholism. Alcohol Res Health 26, 208-213.
+
+   Edenberg HJ and Foroud T (2006) The genetics of alcoholism: identifying specific genes through family studies. Addiction
+
+   Biology 11, 386-396.&lt;/p&gt;
+
+ &lt;p&gt;This case-control sample of biologically unrelated individuals was drawn from COGA subjects. All cases meet DSM-IV criteria
+
+   for alcohol dependence. Controls are individuals who have consumed alcohol, but did not meet any definition of alcohol
+
+   dependence or alcohol abuse, nor did they meet any DSM-IIIR or DSM-IV definition of abuse or dependence for other drugs
+
+   (except nicotine). All cases and controls have undergone identical clinical assessments. Many individuals in this case-control
+
+   sample have not previously been genotyped.&lt;/p&gt;
+
+ &lt;p&gt;The Collaborative Study on the Genetics of Alcoholism (COGA) has four Co-Principal Investigators: B. Porjesz,
+
+   V. Hesselbrock, H. Edenberg, L. Bierut. COGA includes nine different centers where data collection, analysis, and
+
+   storage take place. The nine sites and Principal Investigators and Co-Investigators are: University of Connecticut
+
+   (V. Hesselbrock); Indiana University (H.J. Edenberg, J. Nurnberger Jr., T. Foroud); University of Iowa (S. Kuperman); SUNY
+
+   Downstate (B. Porjesz); Washington University in St. Louis (L. Bierut, A. Goate, J. Rice); University of California at San Diego
+
+   (M. Schuckit); Howard University (R. Taylor); Rutgers University (J. Tischfield); Southwest Foundation (L. Almasy). Q. Max Guo
+
+   serves as the NIAAA Staff Collaborator. This national collaborative study is supported by the NIH Grant U10AA008401 from the
+
+   National Institute on Alcohol Abuse and Alcoholism (NIAAA) and the National Institute on Drug Abuse (NIDA).  Funding support for
+
+   genotyping, which was performed at the Johns Hopkins University Center for Inherited Disease Research, was provided by the National
+
+   Institute on Alcohol Abuse and Alcoholism, the NIH GEI (U01HG004438),and the NIH contract "High throughput genotyping for studying
+
+   the genetic contributions to human disease" (HHSN268200782096C).&lt;/p&gt;
+
+
+
+ &lt;p&gt;COGA has over 250 publications listed at &lt;a href="http://www.niaaagenetics.org" target="_blank"&gt;www.niaaagenetics.org&lt;/a&gt;&lt;/p&gt;
+ </Description><StudyHistory>
+&lt;p&gt;COGA was initiated in 1989, with Henri Begleiter as the Principal Investigator and Theodore Reich as the Co-Principal
+
+    Investigator for 15 years. In 2004, while Henri Begleiter remained the PI, 4 Co-PIs were put into place: Howard Edenberg,
+
+ Victor Hesselbrock, Bernice Porjesz and Laura Bierut. In 2006, the structure of the leadership changed again, with these 4
+
+    scientific Co-PIs leading the project, and Bernice Porjesz additionally serving as the Administrative PI. In addition to
+
+ Henri Begleiter and Theodore Reich, several past key members of COGA were T.K. Li, Raymond Crowe, Wendy Reich and C. Michael
+
+    Conneally, who have moved on to new positions or have retired.&lt;/p&gt;
+
+ &lt;p&gt;In 1990, Phase I of COGA began, systematically ascertaining probands in treatment within six catchment areas, located
+
+    across the United States (Indiana, New York, St. Louis, Connecticut, Iowa, San Diego). Probands met criteria of alcohol
+
+ dependence based upon personal interview using the Semi-Structured Assessment for the Genetics of Alcoholism (SSAGA), a polydiagnostic
+
+    instrument developed by COGA, and had at least two first-degree relatives available for evaluation. Over the next 5 years,
+
+ affected probands and family members participated in the study. During this time, Control families with the same family
+
+    structure were also ascertained from the community, to be representative of the general population; controls did not have to
+
+    be unaffected individuals. All families completed the same battery of tests. A subset of families underwent
+
+ neurophysiological assessments.&lt;/p&gt;
+
+ &lt;p&gt;In Phase II, between 1995 and 1999, some recruitment of new families continued, and the first follow-up protocol
+
+    (5 year) was initiated. Affected families were extended. Adult clinical interviews conducted at this time used the SSAGA2
+
+    (a slight modification of the SSAGA to meet new diagnostic criteria).&lt;/p&gt;
+
+ &lt;p&gt;Phase III began in 1999, and was primarily an extension of Phase II with an emphasis on recruiting high-risk families
+
+    with young children. At this time Howard University became an additional recruitment site.&lt;/p&gt;
+
+ &lt;p&gt;In 2004, COGA began Phase IV, the prospective study of adolescents and young adults from pedigrees ascertained in
+
+    Phases I-III, which is ongoing. Participants are reassessed every two years.&lt;/p&gt;
+
+ &lt;p&gt;For more details, see
+
+    &lt;a href="http://zork.wustl.edu/niaaa/coga_instruments/resources" target="_blank"&gt;zork.wustl.edu/niaaa/coga_instruments/resources&lt;/a&gt;.&lt;/p&gt;
+ </StudyHistory><Attributions><Header title="Co-Principal Investigators (*Administrative PI)"><AttrName>Bernice Porjesz*, PhD</AttrName><Institution>SUNY Downstate Medical Center, Brooklyn NY, USA</Institution></Header><Header title="Co-Principal Investigators (*Administrative PI)"><AttrName>Howard J. Edenberg, PhD</AttrName><Institution>Indiana University School of Medicine, Indianapolis, IN, USA</Institution></Header><Header title="Co-Principal Investigators (*Administrative PI)"><AttrName>Laura J. Bierut, MD</AttrName><Institution>Washington University School of Medicine, St. Louis, MO, USA</Institution></Header><Header title="Co-Principal Investigators (*Administrative PI)"><AttrName>Victor Hesselbrock, PhD</AttrName><Institution>University of Connecticut Health Center, Farmington, CT, USA</Institution></Header><Header title="Steering Committee"><AttrName>Bernice Porjesz*, PhD</AttrName><Institution>SUNY Downstate Medical Center, Brooklyn NY, USA</Institution></Header><Header title="Steering Committee"><AttrName>Howard J. Edenberg, PhD</AttrName><Institution>Indiana University School of Medicine, Indianapolis, IN, USA</Institution></Header><Header title="Steering Committee"><AttrName>Laura J. Bierut, MD</AttrName><Institution>Washington University School of Medicine, St. Louis, MO, USA</Institution></Header><Header title="Steering Committee"><AttrName>Victor Hesselbrock, PhD</AttrName><Institution>University of Connecticut Health Center, Farmington, CT, USA</Institution></Header><Header title="Steering Committee"><AttrName>Laura Almasy, PhD</AttrName><Institution>Southwest Foundation, San Antonio, TX, USA</Institution></Header><Header title="Steering Committee"><AttrName>Tatiana Foroud, PhD</AttrName><Institution>Indiana University School of Medicine, Indianapolis, IN, USA</Institution></Header><Header title="Steering Committee"><AttrName>Alison Goate, DPhil</AttrName><Institution>Washington University School of Medicine, St. Louis, MO, USA</Institution></Header><Header title="Steering Committee"><AttrName>Samuel Kuperman, MD</AttrName><Institution>University of Iowa Hospitals, Iowa City, IA, USA</Institution></Header><Header title="Steering Committee"><AttrName>John I. Nurnberger, Jr., MD, PhD</AttrName><Institution>Indiana University School of Medicine, Indianapolis, IN, USA</Institution></Header><Header title="Steering Committee"><AttrName>John Rice, PhD</AttrName><Institution>Washington University School of Medicine, St. Louis, MO, USA</Institution></Header><Header title="Steering Committee"><AttrName>Marc A. Schuckit, MD</AttrName><Institution>University of California, San Diego, CA, USA</Institution></Header><Header title="Steering Committee"><AttrName>Robert Taylor MD</AttrName><Institution>Howard University, Washington, DC, USA</Institution></Header><Header title="Steering Committee"><AttrName>Jay A. Tischfield, PhD</AttrName><Institution>Rutgers University, Piscataway, NJ, USA</Institution></Header><Header title="Steering Committee"><AttrName>Q. Max Guo, PhD</AttrName><Institution>National Institute on Alcohol Abuse and Alcoholism, National Institutes of Health, Bethesda, MD, USA</Institution></Header><Header title="Other Analysts/Investigators"><AttrName>Kathleen Bucholz, PhD</AttrName><Institution>Washington University School of Medicine, St. Louis, MO, USA</Institution></Header><Header title="Other Analysts/Investigators"><AttrName>Andrew Chen, MD, PhD</AttrName><Institution>SUNY Downstate Medical Center, Brooklyn NY, USA</Institution></Header><Header title="Other Analysts/Investigators"><AttrName>Danielle Dick, PhD</AttrName><Institution>Virginia Commonwealth University, Richmond, VA, USA</Institution></Header><Header title="Other Analysts/Investigators"><AttrName>Anthony Hinrichs, PhD</AttrName><Institution>Washington University School of Medicine, St. Louis, MO, USA</Institution></Header><Header title="Other Analysts/Investigators"><AttrName>John Kramer, PhD</AttrName><Institution>University of Iowa, Iowa City, IA, USA</Institution></Header><Header title="Other Analysts/Investigators"><AttrName>Madhavi Rangaswamy, PhD</AttrName><Institution>SUNY Downstate Medical Center, Brooklyn NY, USA</Institution></Header><Header title="Other Analysts/Investigators"><AttrName>Nancy Saccone, PhD</AttrName><Institution>Washington University School of Medicine, St. Louis, MO, USA</Institution></Header><Header title="Other Analysts/Investigators"><AttrName>Scott Saccone, PhD</AttrName><Institution>Washington University School of Medicine, St. Louis, MO, USA</Institution></Header><Header title="Other Analysts/Investigators"><AttrName>Yongqiang Tang, PhD</AttrName><Institution>SUNY Downstate Medical Center, Brooklyn NY, USA</Institution></Header><Header title="Other Analysts/Investigators"><AttrName>Jen Chyong Wang, PhD</AttrName><Institution>Washington University School of Medicine, St. Louis, MO, USA</Institution></Header><Header title="Other Analysts/Investigators"><AttrName>Leah Flury Wetherill</AttrName><Institution>Indiana University School of Medicine, Indianapolis, IN, USA</Institution></Header><Header title="Other Analysts/Investigators"><AttrName>Xiaoling Xuei, PhD</AttrName><Institution>Indiana University School of Medicine, Indianapolis, IN, USA</Institution></Header><Header title="Funding Source"><AttrName>U10 AA008401</AttrName><Institution>National Institute on Alcohol Abuse and Alcoholism (NIAAA) and National Institute on Drug Abuse (NIDA), National Institutes of Health, Bethesda, MD, USA</Institution></Header><Header title="Funding Source for Genotyping"><AttrName>U10 AA008401</AttrName><Institution>National Institute on Alcohol Abuse and Alcoholism (NIAAA), National Institutes of Health, Bethesda, MD, USA</Institution></Header><Header title="Funding Source for Genotyping"><AttrName>U01HG004438</AttrName><Institution>NIH GEI</Institution></Header><Header title="Funding Source for Genotyping"><AttrName>HHSN268200782096C</AttrName><Institution>NIH contract "High throughput genotyping for studying the genetic contributions to human disease"</Institution></Header></Attributions><StudyURLs><Url name="NIAAA COGA" url="http://www.niaaagenetics.org"/></StudyURLs><Publications><Publication><Pubmed pmid="12875050"/></Publication><Publication><Pubmed pmid="12875049"/></Publication><Publication><Pubmed pmid="16451628"/></Publication><Publication><Pubmed pmid="16961766"/></Publication><Publication><Pubmed pmid="17982586"/></Publication><Publication><Pubmed pmid="15826840"/></Publication><Publication><Pubmed pmid="8189735"/></Publication><Publication><Pubmed pmid="10615721"/></Publication><Publication><Pubmed pmid="15024690"/></Publication><Publication><Pubmed pmid="15229186"/></Publication><Publication><Pubmed pmid="16385453"/></Publication><Publication><Pubmed pmid="16924269"/></Publication><Publication><Pubmed pmid="16571603"/></Publication></Publications><Funding>U10 AA008403-099007</Funding></StudyInfo><Authority><ICs><IC id="14" name="NIAAA" is_funding_ic="false" is_admin_ic="false" primary="true"/></ICs><Persons><Person nedid="EDENBERG" aid="2" auth="eRA" login="EDENBERG" fname="HOWARD" mname="J" lname="EDENBERG" email="edenberg@iu.edu"><Role allow_direct_access="true">PI</Role><Organization>INDIANA UNIV-PURDUE UNIV AT INDIANAPOLIS</Organization></Person><Person nedid="0014297184" aid="1" auth="cit" login="parsiana" fname="Abbas" mname="" lname="Parsian" email="parsiana@mail.nih.gov"><Role>PO</Role><Organization>NIH</Organization></Person><Person nedid="0013043239" aid="1" auth="cit" login="pretels" fname="Renate" mname="S" lname="Pretel" email="pretels@ncbi.nlm.nih.gov"><Role>PHENO_CURATOR</Role><Organization>NIH</Organization></Person><Person nedid="0010148423" aid="1" auth="cit" login="anoronha" fname="Antonio" mname="B" lname="Noronha" email="anoronha@mail.nih.gov"><Role>GPA</Role><Organization>NIH</Organization></Person></Persons></Authority><Policy display-research-statement="true" display-public-summary="true" years-until-renewal="1" weeks-to-cancel-request="8" pub-embargo="none"><acknowledgement_statement>Funding support for the [CIDR-COGA Study] was provided through the [the Center for Inherited Disease Research (CIDR) and the Collaborative Study on the Genetics of Alcoholism (COGA), with co-funding by NIDA]. [CIDR-COGA Study] is a genome-wide association studies funded as part of the [Collaborative Study on the Genetics of Alcoholism (COGA)]. Assistance with phenotype harmonization and genotype cleaning, as well as with general study coordination, was provided by the [Collaborative Study on the Genetics of Alcoholism (COGA)]. Assistance with data cleaning was provided by the National Center for Biotechnology Information. Support for collection of datasets and samples was provided by the Collaborative Study on the Genetics of Alcoholism (COGA; U10 AA008401). Funding support for genotyping, which was performed at the Johns Hopkins University Center for Inherited Disease Research, was provided by the NIH GEI (U01HG004438), the National Institute on Alcohol Abuse and Alcoholism, and the NIH contract "High throughput genotyping for studying the genetic contributions to human disease" (HHSN268200782096C). </acknowledgement_statement><ic_specific_access_term/><DUC universal_duc="Yes"><File full_url="https://dbgap.ncbi.nlm.nih.gov/aa/docs/Static_DUC_20190419.pdf" filename="Static_DUC_20190419.pdf" content-type="application/pdf"/></DUC><DUC_PDF universal_duc="Yes"><File full_url="https://dbgap.ncbi.nlm.nih.gov/aa/docs/Static_DUC_20190419.pdf" filename="Static_DUC_20190419.pdf" content-type="application/pdf"/></DUC_PDF><ConsentGroup uid="218" CGType="cg_class_other" title="Health Research " name="HR" dac_uid="57" dac_name="JAAMH" irb-approval-required="Yes"><Use-Restriction>May be used for genetic studies to learn about, prevent, or treat health problems</Use-Restriction></ConsentGroup><ConsentGroup uid="219" CGType="cg_class_other" title="Alcoholism and Related Conditions " name="ARC" dac_uid="57" dac_name="JAAMH" irb-approval-required="Yes"><Use-Restriction>Limited to genetic studies of alcohol dependence and related conditions. Related conditions include dependence on other substances including nicotine, marijuana, and other illicit drugs (e.g., stimulants, sedatives, opiates), as well as related psychiatric conditions, including externalizing disorders and depression.</Use-Restriction></ConsentGroup></Policy><SRA/><Documents/><Status uid="1" name="released" title="Released"/></Study></dbgapss>

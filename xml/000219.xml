@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" ?><dbgapss xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="dbgapssws.1.0.xsd"><Study uid="5774" whole_study_id="5774" phs="000219" v="1" p="1" createDate="2009-11-17T15:49:53-05:00" modDate="2021-02-12T09:04:27-05:00" maxParentChildStudyModDate="2021-02-12T09:04:27-05:00" handle="NIMH_GenADA"><StudyInfo accession="phs000219.v1.p1" parentAccession="phs000219.v1.p1"><BioProject id="PRJNA77985" entrez_id="77985" type="bp_admin_access"/><BioProject id="PRJNA77987" entrez_id="77987" type="bp_data_submission"/><StudyNameEntrez>GenADA</StudyNameEntrez><StudyTypes2 calculated="Yes"><StudyType21 name="phenotype_data" chosen="No"/><StudyType21 name="analysis" chosen="No"/><StudyType21 name="individual_sequencing" chosen="No"/><StudyType21 name="supporting_documents" chosen="No"/><StudyType21 name="images" chosen="No"/><StudyType21 name="molecular" chosen="No"/><StudyType21 name="subject_samples" chosen="No"/><StudyType21 name="links_to_ncbi_dbs" chosen="No"/><StudyType21 name="other_general" chosen="No"/></StudyTypes2><Description>
+&lt;p&gt;GenADA is a multi-site collaborative study, involving GlaxoSmithKline Inc and nine medical centres in Canada, to develop a dataset
+
+ containing 1000 Alzheimer&amp;#39;s disease patients and 1000 ethnically-matched controls in order to associate DNA sequence (allelic) variations
+
+ in candidate genes with Alzheimer&amp;#39;s disease phenotypes. The study consists of both retrospective and prospective components, that is,
+
+ patients with an existing diagnosis of Alzheimer&amp;#39;s disease as well as newly diagnosed patients were enrolled in the study. Thus, clinical
+
+ data was retrospectively or prospectively obtained on Day 1 of entry into GenADA.  Where possible, biological relatives with
+
+ Alzheimer&amp;#39;s (up to third degree relationship such as cousins) and unaffected siblings of AD cases were also recruited.  Note 
+
+ that recruitment numbers for biological relatives were lower than expected and genotypic data has not been submitted to 
+
+ dbGap for these subjects.&lt;/p&gt;
+
+ &lt;p&gt;The purpose of this study is:&lt;br/&gt;
+
+  &lt;ul&gt;
+
+   &lt;li&gt;To identify DNA sequence variations (genotype) in candidate genes that are associated with the clinical symptoms and
+
+   behavioural features of Alzheimer&amp;#39;s disease (phenotype), which differ between study participants with and without the
+
+   disease.&lt;/li&gt;
+
+   &lt;li&gt;To identify other genotype-phenotype associations in cognitively impaired study participants such as age of onset, family
+
+   history, rate of cognitive decline, patterns of behavioural/psychiatric non-cognitive symptoms factors, response to treatment
+
+   co-morbid conditions, and risks/exposure.&lt;/li&gt;
+
+  &lt;/ul&gt;
+
+ &lt;/p&gt;
+
+ &lt;p&gt;The final subject recruitment for this study included 875 Alzheimer&amp;#39;s disease patients, 850 ethnically-matched controls,
+
+ and 37 family members.&lt;/p&gt;
+
+ &lt;p&gt;GenADA LONG is a longitudinal assessment to the original GenADA study.  Eligible subjects were recruited from five of the
+
+ nine memory clinics that participated in the GenADA study.  Mild to moderate AD participants, a matched subset of controls, and
+
+ biological related siblings (both affected and unaffected) or other blood relatives affected with AD, were initially examined a
+
+ minimum of 12 months from recruitment into the original GenADA study, then at two further intervals of 12 and 18 months after
+
+ time of entry into GenADA LONG.  This enables an evaluation of the disease progression in AD patients and a determination of
+
+ whether controls show evidence of cognitive decline.  The overall goal of this extension study is to identify genetic differences
+
+ and environmental influences that modulate the age of onset of the disease, the course of the disease, and/or biomarkers for
+
+ neurodegenerative processes.&lt;/p&gt;
+
+ &lt;p&gt;Three of the five memory clinics that participated in the GenADA LONG study recruited eligible patients into GenADA Imaging.&lt;/p&gt;
+
+ &lt;p&gt;A concurrent neuroimaging sub-study was conducted at three of the five memory clinics participating in GenADA LONG. Eligible AD
+
+ cases with mild to moderate AD, who were recruited into the original GenADA study and participated in the GenADA LONG extension study,
+
+ were enrolled.  Additionally, controls that showed signs of cognitive decline, as part of the assessment in GenADA LONG, were imaged
+
+ at baseline, 12 and 18 month scanning intervals.  The objective of this study is to find genes that:  affect changes in AD brain volume
+
+ measure by magnetic resonance in order to investigate how well change in brain volume predicts other key clinical measures in AD,
+
+ such as neurodegenerative scales; that correlate changes in brain volume for other genotype-phenotype associations in cognitively
+
+ impaired study participants; and that correlate with other clinically applicable magnetic resonance measures of pathology that can
+
+ be conducted at the same time as structural volume measures, and are complementary to the volume measures.&lt;/p&gt;
+
+ &lt;p&gt;The ultimate aim of this research is to obtain a better understanding and definition of Alzheimer&amp;#39;s Disease in order to develop
+
+ new improved medicines.&lt;/p&gt;
+ </Description><Attributions><Header title="Principal Investigators"><AttrName>Luis Fornazzari</AttrName><Institution>Memory Clinic, St. Michaels Hospital, Toronto, Canada</Institution></Header><Header title="Principal Investigators"><AttrName>Serge Gauthier</AttrName><Institution>McGill Centre for Studies in Aging, Alzheimer's Disease Research Unit, Verdun, Quebec</Institution></Header><Header title="Principal Investigators"><AttrName>Peter H. St. George-Hyslop</AttrName><Institution>University of Toronto, Center for Research in Neurodegenerative Diseases, Toronto, Ontario</Institution></Header><Header title="Principal Investigators"><AttrName>Howard Feldman</AttrName><Institution>Vancouver Hospital and Health Sciences Centre, Vancouver, British Columbia</Institution></Header><Header title="Principal Investigators"><AttrName>Anthony Guzman</AttrName><Institution>Clinical Trial Unit, SCO Health Service, Ottawa, Ontario</Institution></Header><Header title="Principal Investigators"><AttrName>Michael Borrie</AttrName><Institution>Parkwood Hospital, London, Ontario</Institution></Header><Header title="Principal Investigators"><AttrName>Andrew Kertesz</AttrName><Institution>St. Joseph's Hospital, London, Ontario</Institution></Header><Header title="Principal Investigators"><AttrName>Richard Delisle</AttrName><Institution>Clinique de Neurologie, Trois-Rivi&#233;res, Quebec</Institution></Header><Header title="Co-Investigators"><AttrName>John Wherrett</AttrName><Institution>University Health Network, Toronto, Ontario</Institution></Header><Header title="Co-Investigators"><AttrName>Ron Keren</AttrName><Institution>University Health Network, Toronto, Ontario</Institution></Header><Header title="Co-Investigators"><AttrName>Inge Loy-English</AttrName><Institution>Clinical Trial Unit, SCO Health Service, Ottawa, Ontario</Institution></Header><Header title="Co-Investigators"><AttrName>Ging-Yuek Hsiung</AttrName><Institution>University of British Columbia, Vancouver, British Columbia</Institution></Header><Header title="Funding Source"><AttrName>GlaxoSmithKline, Inc.</AttrName><Institution>Translational Medicine &amp; Genetics, Clinical Imaging Center, R&amp;D Alliances, and Worldwide Epidemiology</Institution></Header></Attributions><Publications><Publication><Pubmed pmid="17998437"/></Publication><Publication><Pubmed pmid="19013250"/></Publication></Publications></StudyInfo><Authority><ICs><IC id="8" name="NIMH" is_funding_ic="false" is_admin_ic="false" primary="true"/></ICs><Persons><Person nedid="0013043239" aid="1" auth="cit" login="pretels" fname="Renate" mname="S" lname="Pretel" email="pretels@ncbi.nlm.nih.gov"><Role>PHENO_CURATOR</Role><Organization>NIH</Organization></Person><Person nedid="0010617167" aid="1" auth="cit" login="farberg" fname="Gregory" mname="Kyle" lname="Farber" email="farberg@mail.nih.gov"><Role>GPA</Role><Organization>NIH</Organization></Person></Persons></Authority><Policy display-research-statement="true" display-public-summary="true" years-until-renewal="1" weeks-to-cancel-request="8" pub-embargo="6 months"><acknowledgement_statement>Li H, Wetten S, Li L, St Jean PL, Upmanyu R, Surh L, Hosford D, Barnes MR, Briley JD, Borrie M, Coletta N, Delisle R, Dhalla D, Ehm MG, Feldman HH, Fornazzari L, Gauthier S, Goodgame N, Guzman D, Hammond S, Hollingworth P, Hsiung GY, Johnson J, Kelly DD, Keren R, Kertesz A, King KS, Lovestone S, Loy-English I, Matthews PM, Owen MJ, Plumpton M, Pryse-Phillips W, Prinjha RK, Richardson JC, Saunders A, Slater AJ, St George-Hyslop PH, Stinnett SW, Swartz JE, Taylor RL, Wherrett J, Williams J, Yarnall DP, Gibson RA, Irizarry MC, Middleton LT, Roses AD. Candidate single-nucleotide polymorphisms from a genomewide association study of Alzheimer disease. Arch Neurol., Jan;65(1):45-53, 2008 (PMID: 17998437)
+Filippini N, Rao A, Wetten S, Gibson RA, Borrie M, Guzman D, Kertesz A, Loy-English I, Williams J, Nichols T, Whitcher B, Matthews PM. Anatomically-distinct genetic associations of APOE epsilon4 allele load with regional cortical atrophy in Alzheimer&#8217;s disease. Neuroimage, Feb 1;44(3):724-8, 2009. (PMID: 19013250).
+</acknowledgement_statement><ic_specific_access_term/><DUC universal_duc="Yes"><File full_url="https://dbgap.ncbi.nlm.nih.gov/aa/docs/Static_DUC_20190419.pdf" filename="Static_DUC_20190419.pdf" content-type="application/pdf"/></DUC><DUC_PDF universal_duc="Yes"><File full_url="https://dbgap.ncbi.nlm.nih.gov/aa/docs/Static_DUC_20190419.pdf" filename="Static_DUC_20190419.pdf" content-type="application/pdf"/></DUC_PDF><GSR_Access gsr_mode="gsr_not_apply" gsr_mode_label="GSR does not apply (ONLY for studies that will not have genomic data in dbGaP)"/><ConsentGroup uid="122" CGType="cg_class_other" title="Genetic Basis of Alzheimer&#8217;s " name="GBA" dac_uid="57" dac_name="JAAMH" irb-approval-required="No"><Use-Restriction>Purpose must be to study the genetic basis of Alzheimer's disease.</Use-Restriction></ConsentGroup><AdditionalEmails><Email>patrick.bender@nih.gov</Email></AdditionalEmails></Policy><SRA/><Documents/><Status uid="1" name="released" title="Released"/></Study></dbgapss>

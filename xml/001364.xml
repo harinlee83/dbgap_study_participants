@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" ?><dbgapss xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="dbgapssws.1.0.xsd"><Study uid="24033" whole_study_id="24033" phs="001364" v="1" p="1" createDate="2017-03-23T13:19:56-05:00" completedByGPADate="2017-03-23T14:37:11-05:00" modDate="2021-02-12T09:04:55-05:00" maxParentChildStudyModDate="2021-02-12T09:04:55-05:00" handle="MappingHumanConnectome" num_participants="1134"><StudyInfo accession="phs001364.v1.p1" parentAccession="phs001364.v1.p1"><BioProject id="PRJNA384837" entrez_id="384837" type="bp_admin_access"/><BioProject id="PRJNA384838" entrez_id="384838" type="bp_data_submission"/><StudyNameEntrez>Mapping the Human Connectome: Structure, Function, and Heritability</StudyNameEntrez><StudyTypes2 calculated="Yes"><StudyType21 name="phenotype_data" chosen="Yes"/><StudyType21 name="analysis" chosen="No"/><StudyType21 name="individual_sequencing" chosen="No"/><StudyType21 name="supporting_documents" chosen="Yes"/><StudyType21 name="images" chosen="No"/><StudyType21 name="molecular" chosen="Yes"><StudyType22 name="array_multi_sample_gen"/></StudyType21><StudyType21 name="subject_samples" chosen="Yes"><StudyType22 name="from_repository"/></StudyType21><StudyType21 name="links_to_ncbi_dbs" chosen="No"/><StudyType21 name="other_general" chosen="No"/></StudyTypes2><StudyTypes><StudyType>phenotype_data</StudyType><StudyType>genotype_data</StudyType><StudyType>supporting_documents</StudyType><StudyType>from_repository</StudyType><StudyType>snp_array</StudyType><StudyType>array_derived_genotypes</StudyType></StudyTypes><Funding>U54 MH091657</Funding></StudyInfo><Authority><ICs><IC id="8" name="NIMH" is_funding_ic="false" is_admin_ic="false" primary="true"/></ICs><Persons><Person nedid="VANESSEN" aid="2" auth="eRA" login="VANESSEN" fname="DAVID" mname="" lname="VAN ESSEN" email="vanessen@wustl.edu"><Role>PI</Role><Organization>WASHINGTON UNIVERSITY</Organization></Person><Person nedid="0010617167" aid="1" auth="cit" login="farberg" fname="Gregory" mname="Kyle" lname="Farber" email="farberg@mail.nih.gov"><Role>PO</Role><Organization>NIH</Organization></Person><Person nedid="0013043239" aid="1" auth="cit" login="pretels" fname="Renate" mname="S" lname="Pretel" email="pretels@ncbi.nlm.nih.gov"><Role>PHENO_CURATOR</Role><Organization>NIH</Organization></Person><Person nedid="0011552437" aid="1" auth="cit" login="jawang" fname="Zhen" mname="Yuan" lname="Wang" email="zhen.wang@nih.gov"><Role>GENO_CURATOR</Role><Organization>NIH</Organization></Person><Person nedid="0010617167" aid="1" auth="cit" login="farberg" fname="Gregory" mname="Kyle" lname="Farber" email="farberg@mail.nih.gov"><Role>GPA</Role><Organization>NIH</Organization></Person></Persons></Authority><Policy display-research-statement="true" display-public-summary="true" years-until-renewal="1" weeks-to-cancel-request="8" pub-embargo="none"><acknowledgement_statement>Funded in part by the Human Connectome Project (1U54MH091657) from the 16 NIH Institutes and Centers that Support the NIH Blueprint for Neuroscience Research, by the McDonnell Center for Systems Neuroscience at Washington University. </acknowledgement_statement><ic_specific_access_term>Restrictions on publishing Restricted Data elements for individual subjects. 
+
+Definitions of Restricted Data Elements covered by these terms:
+
+1. Family structure. Family structure (e.g., relationships as twins or non-twin siblings, but excluding birth order) is a core type of information that will be used for heritability analyses.
+2. Additional Restricted Data Elements: Given the population from which HCP subjects are drawn, some data elements in the Restricted Data, if used in combination with one another or with family structure information, could increase the risk that individual research subjects could be identified. Alternatively, some data elements might harm or embarrass individuals if they were inadvertently disclosed. These data elements are:
+&#8226; Handedness
+&#8226; Subject age by any finer granularity than the 5-year age ranges included in the Open Access Data
+&#8226; Birth order
+&#8226; Ethnicity and/or race
+&#8226; Body weight, height, and BMI
+&#8226; Color vision and visual correction measures
+&#8226; All data from the SSAGA telephone diagnostic interview
+&#8226; Drug test results
+&#8226; HbA1c and TSH results
+&#8226; Information on endocrine disorders and age of onset
+&#8226; Any psychiatric and neurologic illnesses of subjects&#8217; parents
+
+It is imperative that individual subjects not be recognizable to their family members or others through publication of combinations of restricted access data elements, either within or across publications. 
+
+Therefore, Requestor will abide by the following:
+
+a. No reporting of HCP Subject ID numbers when publishing or publicly reporting analyses that
+use Restricted Data. Requestor agrees will not include any HCP-assigned subject IDs in any publication or public presentation that makes use of Restricted Data from individual subjects. I will instead assign my own study-specific subject IDs to each individual, e.g. subjects A, B, C, etc.
+b. Family structure is the ONLY Restricted Data Element that can be reported for individual
+subjects in a publication or public presentation. As stipulated in 4a, when reporting family
+structure of subjects, individuals must be assigned study-specific subject IDs.
+c. If requestor publishes data analyzed using Additional Restricted Data Elements (including handedness, exact age, ethnicity, race, body weight, and all other types listed in section A.2), each reported analysis must be based on at least 3 subjects, and the presentation of the data must not reveal the study specific subject ID associated with any particular data point or value.
+
+Sharing of investigator-assigned subject ID numbers with other users of the Restricted Data.
+Upon acceptance of each publication in which individual HCP data is reported, requestor will submit to HCP a key or legend that maps the investigator-assigned subject IDs to the corresponding HCP subject IDs, by following instructions given at http://www.humanconnectome.org/data/key/. This study-specific
+information will be made available to the community of HCP Restricted Data users, so that other
+investigators can better interpret my published findings. Requestor will not publish this code or make it available independent of the HCP&#8217;s distribution mechanism.
+</ic_specific_access_term><DUC universal_duc="Yes"><File full_url="https://dbgap.ncbi.nlm.nih.gov/aa/docs/Static_DUC_20190419.pdf" filename="Static_DUC_20190419.pdf" content-type="application/pdf"/></DUC><DUC_PDF universal_duc="Yes"><File full_url="https://dbgap.ncbi.nlm.nih.gov/aa/docs/Static_DUC_20190419.pdf" filename="Static_DUC_20190419.pdf" content-type="application/pdf"/></DUC_PDF><GSR_Access gsr_mode="contr_access" gsr_mode_label="Controlled-access (GSR are sensitive according to the Institutional Certification)"/><ConsentGroup uid="2492" CGType="cg_class_GRU" title="General Research Use (IRB, PUB)" name="GRU-IRB-PUB" dac_uid="57" dac_name="JAAMH" irb-approval-required="Yes"><Use-Restriction>Use of the data is limited only by the terms of the model Data Use Certification.
+Requestor must provide documentation of local IRB approval.
+Requestor agrees to make results of studies using the data available to the larger scientific community.
+
+</Use-Restriction></ConsentGroup><AdditionalEmails><Email>tara.dutka@nimh.gov</Email></AdditionalEmails></Policy><SRA/><Documents/><Status uid="1" name="released" title="Released"/></Study></dbgapss>

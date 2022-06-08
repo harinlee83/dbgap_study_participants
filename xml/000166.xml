@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" ?><dbgapss xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="dbgapssws.1.0.xsd"><Study uid="5428" whole_study_id="5428" phs="000166" v="2" p="1" createDate="2008-11-13T13:33:32-05:00" modDate="2022-01-25T16:16:04-05:00" maxParentChildStudyModDate="2022-01-25T16:16:04-05:00" handle="SHARP" num_participants="5000"><StudyInfo accession="phs000166.v2.p1" parentAccession="phs000166.v2.p1"><BioProject id="PRJNA75421" entrez_id="75421" type="bp_admin_access"/><BioProject id="PRJNA75423" entrez_id="75423" type="bp_data_submission"/><StudyNameEntrez>SHARe Asthma Resource Project (SHARP)</StudyNameEntrez><StudyTypes2 calculated="Yes"><StudyType21 name="phenotype_data" chosen="No"/><StudyType21 name="analysis" chosen="No"/><StudyType21 name="individual_sequencing" chosen="Yes"><StudyType22 name="cloud_for_sequence"/></StudyType21><StudyType21 name="supporting_documents" chosen="No"/><StudyType21 name="images" chosen="No"/><StudyType21 name="molecular" chosen="No"/><StudyType21 name="subject_samples" chosen="No"/><StudyType21 name="links_to_ncbi_dbs" chosen="No"/><StudyType21 name="other_general" chosen="No"/></StudyTypes2><Description>
+&lt;p&gt;SNP Health Association Resource (SHARe) Asthma Resource project (SHARP) is conducting a genome-wide analysis in adults and children
+
+ who have participated in National Heart, Lung, and Blood Institute&amp;#39;s clinical research trials on asthma. This includes 1041 children
+
+ with asthma who participated in the Childhood Asthma Management Program (CAMP), 994 children who participated in one or five clinical
+
+ trials conducted by the Childhood Asthma Research and Education (CARE) network, and 701 adults who participated in one of six clinical
+
+ trials conducted by the Asthma Clinical Research Network (ACRN).&lt;/p&gt;
+
+ &lt;p&gt;There are three study types.  The longitudinal clinical trials can be subsetted for population-based and/or case-control analyses.
+
+ Each of the childhood asthma studies has a majority of children participating as part of a parent-child trio.  The ACRN (adult)
+
+ studies are probands alone. Control genotypes will be provided for case-control analyses.&lt;/p&gt;
+ </Description><StudyHistory>
+&lt;p&gt;&lt;b&gt;CAMP: &lt;/b&gt;The Childhood Asthma Management Program (CAMP) was designed to evaluate whether continuous, long-term treatment (over 
+
+  a period of four to six years) with either an inhaled corticosteroid (budesonide) or an inhaled noncorticosteroid drug (nedocromil) 
+
+  safely produces an improvement in lung growth as compared with treatment for symptoms only (with albuterol and, if necessary, 
+
+  prednisone, administered as needed). The primary outcome in the study was lung growth, as assessed by the change in forced expiratory 
+
+  volume in one second (FEV&lt;sub&gt;1&lt;/sub&gt;, expressed as a percentage of the predicted value) after the administration of a bronchodilator. 
+
+  Secondary outcomes included the degree of airway responsiveness, morbidity, physical growth, and psychological development.&lt;/p&gt;
+
+  &lt;p&gt;&lt;b&gt;CARE: &lt;/b&gt;The Childhood Asthma Research and Education (CARE) Network was established in 1999 by the National Heart, Lung and Blood 
+
+  Institute (NHLBI).  Five clinical centers and a data coordinating center were selected to participate in this research network. Since 
+
+  asthma is the most common chronic childhood disease in the U.S., the CARE Network was established to evaluate treatments for children 
+
+  with asthma, conducting studies for children with asthma and sharing their findings with the health care community.&lt;/p&gt;
+
+  &lt;p&gt;&lt;b&gt;ACRN: &lt;/b&gt;The Asthma Clinical Research Network (ACRN) was established in 1993 by the Division of Lung Diseases (DLD), National 
+
+  Heart, Lung and Blood Institute (NHLBI). The objectives of this multi-center program are to conduct multiple well designed clinical 
+
+  trials for rapid evaluation of new and existing therapeutic approaches to asthma and to disseminate laboratory and clinical findings 
+
+  to the health care community. From 1993 to 2003, ACRN consisted of six Clinical Centers and one Data Coordinating Center (DCC). In 
+
+  September 2003, after a national competition, NHLBI re-awarded ACRN for another 5 years with eight Clinical Centers and one DCC to 
+
+  continue pursuit of the same objectives.&lt;/p&gt;
+ </StudyHistory><Attributions><Header title="Steering Committee Chairs"><AttrName>James Kiley, PhD</AttrName><Institution>National Institutes of Health, Bethesda, MD, USA</Institution></Header><Header title="Steering Committee Chairs"><AttrName>Scott Weiss, MD, MS</AttrName><Institution>Channing Laboratory, Brigham and Women's Hospital, Boston, MA, USA</Institution></Header></Attributions><StudyURLs><Url name="CAMP" url="http://www.jhucct.com/camp/default.asp"/><Url name="CARE" url="http://www.asthma-carenet.org"/><Url name="ACRN" url="http://www.acrn.org"/></StudyURLs><Publications><Publication><Pubmed pmid="10027502"/></Publication><Publication><Pubmed pmid="11027739"/></Publication><Publication><Pubmed pmid="17140647"/></Publication><Publication><Pubmed pmid="16687711"/></Publication><Publication><Pubmed pmid="15696076"/></Publication><Publication><Pubmed pmid="15157730"/></Publication><Publication><Pubmed pmid="15829533"/></Publication><Publication><Pubmed pmid="8778601"/></Publication><Publication><Pubmed pmid="11368733"/></Publication><Publication><Pubmed pmid="11368732"/></Publication><Publication><Pubmed pmid="12016099"/></Publication><Publication><Pubmed pmid="17208587"/></Publication></Publications></StudyInfo><Authority><ICs><IC id="12" name="NHLBI" is_funding_ic="false" is_admin_ic="false" primary="true"/></ICs><Persons><Person nedid="STW123" aid="2" auth="eRA" login="STW123" fname="Scott" mname="T" lname="Weiss" email="SCOTT.WEISS@CHANNING.HARVARD.EDU"><Role allow_direct_access="true">PI</Role><Organization>BRIGHAM AND WOMEN'S HOSPITAL</Organization></Person><Person nedid="0010053222" aid="1" auth="cit" login="schlegesx" fname="Susan" mname="" lname="Schlegel" email="schleges@nhlbi.nih.gov"><Role>PO</Role><Organization/></Person><Person nedid="0011276160" aid="1" auth="cit" login="thomsonal" fname="Alastair" mname="Alexander" lname="Thomson" email="alastair.thomson@nih.gov"><Role>PI_AA_DELEG</Role><Organization>NIH</Organization></Person><Person nedid="0014418323" aid="1" auth="cit" login="dzakpasuns" fname="Noble" mname="Senyo" lname="Dzakpasu" email="dzakpasuns@mail.nih.gov"><Role>PI_AA_DELEG</Role><Organization>NIH</Organization></Person><Person nedid="GROSSMANR" aid="2" auth="eRA" login="GROSSMANR" fname="ROBERT" mname="" lname="GROSSMAN" email="rgrossman1@uchicago.edu"><Role>PI_AA_DELEG</Role><Organization>UNIVERSITY OF ILLINOIS AT CHICAGOUNIVERSITY OF CHICAGO</Organization></Person><Person nedid="0013269007" aid="1" auth="cit" login="kianga" fname="Anne" mname="" lname="Sturcke" email="kianga@ncbi.nlm.nih.gov"><Role>PHENO_CURATOR</Role><Organization>NIH</Organization></Person><Person nedid="2001545300" aid="1" auth="cit" login="lic17" fname="Chengyuan" mname="" lname="Press" email="chanel.press@nih.gov"><Role>GPA</Role><Organization>NIH</Organization></Person></Persons></Authority><Policy display-research-statement="true" display-public-summary="true" years-until-renewal="1" weeks-to-cancel-request="8" pub-embargo="none"><acknowledgement_statement>The Approved User agrees to acknowledge the contribution of NHLBI and SHARP Study Investigators (CARE, CAMP, and ACRN Clinical Network Investigators and NHLBI staff) in any and all oral and written presentations, disclosures, and publications resulting from any and all analyses of such genetic analysis data. 
+
+If the Research Project involves collaboration with SHARP Study Investigators, then the Approved Users will acknowledge SHARP Study Investigators as co-authors, as appropriate, on any publication, as well as the statement:&#8220;SHARe genotyping services were provided by Affymetrix, Inc. under U.S. Federal Government contract number N02-HL-6-4278 from the National Heart, Lung, and Blood Institute.&#8221;
+
+If the Research Project does not involve collaboration with SHARP Study Investigators, then the manuscript shall include the acknowledgement below.
+ "The SHARP Study is conducted and supported by the National Heart, Lung, and Blood Institute (NHLBI) in collaboration with CARE, CAMP, and ACRN Clinical Network Investigators and the associated Data Coordinating Centers.  This manuscript was not prepared in collaboration with investigators of the SHARP Study and does not necessarily reflect the opinions or views of the SHARP Study Investigators, their Data Coordinating Centers, or the NHLBI. SHARe genotyping services were provided by Affymetrix, Inc. under U.S. Federal Government contract number N02-HL-6-4278 from the National Heart, Lung, and Blood Institute.
+</acknowledgement_statement><ic_specific_access_term>In accord with restrictions on the use of data defined by participant informed consent agreements, users of the SHARP datasets (CARE, CAMP, and/or ACRN) are limited to biomedical genetic research solely in the area of asthma-related research.</ic_specific_access_term><DUC universal_duc="Yes"><File full_url="https://dbgap.ncbi.nlm.nih.gov/aa/docs/Static_DUC_20190419.pdf" filename="Static_DUC_20190419.pdf" content-type="application/pdf"/></DUC><DUC_PDF universal_duc="Yes"><File full_url="https://dbgap.ncbi.nlm.nih.gov/aa/docs/Static_DUC_20190419.pdf" filename="Static_DUC_20190419.pdf" content-type="application/pdf"/></DUC_PDF><GSR_Access gsr_mode="contr_access_timeout_extend" gsr_mode_label="Controlled-access (institution requested additional time)"/><ConsentGroup uid="87" CGType="cg_class_other" title="Asthma-Related Research" name="ARR" dac_uid="56" dac_name="NHLBI" irb-approval-required="No"><Use-Restriction>In accord with restrictions on the use of data defined by participant informed consent agreements, users of the SHARP datasets (CARE, CAMP, and/or ACRN) are limited to biomedical genetic research solely in the area of asthma-related research.</Use-Restriction></ConsentGroup><TrustedPartners><TrustedPartner trp_id="11" trp_db_name="NHLBI BioData Catalyst" trp_download_url="https://biodatacatalyst.nhlbi.nih.gov/resources/data" trp_help_url="https://biodatacatalyst.nhlbi.nih.gov/contact"><StudyFlags sam_with_min_meta="Yes" seq_data_to_ncbi="No" gen_phen_to_ncbi="Yes" has_out_ncbi_data="No"/></TrustedPartner></TrustedPartners></Policy><SRA/><Documents/><Status uid="1" name="released" title="Released"/></Study></dbgapss>
